@@ -1,0 +1,1 @@
+This is a Brain Trainer app. Only you have to do is just hit go and answer the question. You have limited time. In this limited amount of time you can try as many question as possible and final result will say that correct answer out of total attempted question.
